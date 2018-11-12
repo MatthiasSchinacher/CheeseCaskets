@@ -10,7 +10,7 @@ This is a just for fun project to bring back old memories to current technology 
 
 The game is quite simple; it is played by 2 to 4 players on a plane with a roughly rectangular collection of cells - which are called caskets. Each casket is a square with 4 sides, but only the sides that are shared with a neighboring casket of the game layout are important to the game; these are the "collectable" sides.
 
-After the game starts each player makes his/her move in turn, by choosing one of the collectable sides of a square (by clicking on it). This side - belonging to 2 caskets - is marked with the colour of the active player an is then "collected". When- ever a player manages to collect the last side of a casket, this casket is awared to him/her and market with a cross in the respective colour. After being awared at least one casket the same player retains the initiative and moves again!
+After the game starts, each player makes his/her move in turn, by choosing one of the collectable sides of a square (by clicking on it). This side - belonging to 2 caskets - is marked with the colour of the active player and is then "collected". When- ever a player manages to collect the last side of a casket, this casket is awared to him/her and marked with a cross in the respective colour. If the player is awared at least one casket the same player retains the initiative and moves again!
 
 She/he, who get's awareded the most caskets, wins!
 
