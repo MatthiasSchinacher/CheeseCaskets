@@ -33,7 +33,9 @@ As the game is written in Java, a Java runtime and compiler with Swing installed
 I tested it with a jdk 1.8.0_191 on Linux (a Ubuntu 18.04 variant, AMD64).
 
 # Compile and run
-Place the 2 JGoodies jar- files within the project folder, and on a Linux (bash) command- line, go to the project folder
+Place the 2 JGoodies jar- files within the project folder, and on a Linux (bash) command- line, go to the project folder.  
+If not allready existing, create a "bin" folder for the class- files.
 
+    mkdir bin
     javac -d ./bin -sourcepath ./src -cp ./jgoodies-forms-1.8.0.jar src/de/schini/cheesecaskets/*.java
     java -cp ./jgoodies-forms-1.8.0.jar:./jgoodies-common-1.8.1.jar:./bin de.schini.cheesecaskets.CheeseCasketsSwing
